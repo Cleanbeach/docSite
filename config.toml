@@ -73,6 +73,14 @@ contentDir = "content/no"
 time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
 
+[languages.sv]
+title = "Betalning"
+description = "Dokumentationssite för Betalnining"
+languageName ="Svenska"
+contentDir = "content/sv"
+time_format_default = "02.01.2006"
+time_format_blog = "02.01.2006"
+
 [languages.fa]
 title = "اسناد گلدی"
 description = "یک نمونه برای پوسته داکسی"
