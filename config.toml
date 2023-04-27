@@ -65,6 +65,7 @@ description = "A Docsy example site"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
+
 [languages.no]
 title = "Goldydocs"
 description = "Docsy er operativsystem for skyen"
