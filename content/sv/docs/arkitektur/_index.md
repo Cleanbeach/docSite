@@ -1,11 +1,19 @@
 
 ---
-title: "Arkitekturbeslutsposter"
-linkTitle: "ADR"
+title: "Arkitektur"
+linkTitle: "Arkitektur"
 date: 2017-01-03
 description: >
-  Detta avsnitt innehåller de olika arkitekturbeslut som tagigt inom projektet med tillhörande underlag för beslut. Utgångspunkten har är ADR-records.
+  Detta avsnitt innehåller de olika arkitektoriska perspektiven som finns för ett system.
 ---
 
-Detta avsnitt innehåller de olika arkitekturbeslut som tagigt inom projektet med tillhörande underlag för beslut. Utgångspunkten har är ADR-records.
+Detta avsnitt innehåller de olika arkitektoriska perspektiven:
+
+- Observerbarhet
+- Testbarhet
+- Säkerhet
+- Skalbarhet
+- Prestanda
+- till
+- Tillgänglighet
 
